@@ -1,7 +1,8 @@
 # Technical details
-Bachelor Project within Computer Science, written at SDU Odense in spring of 2026.
-**Bachelors students:** Sofie Løfberg & Sandra Johansen
-**Advisor:** Sandra Greiner
+Bachelor Project within Computer Science, written at SDU Odense in spring of 2026. 
+<br>
+**Bachelors students:** Sofie Løfberg & Sandra Johansen <br>
+**Advisor:** Sandra Greiner <br>
 Currently a work in progress, expected done by summer of 2026.
 
 # Description: A web-based knitting pattern configuration tool
